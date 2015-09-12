@@ -30,7 +30,6 @@ return [
         'urlManager' => [
             'enablePrettyUrl' => true,
             'rules' => [
-            // your rules go here
             ],
         ]
     ],
